@@ -1,0 +1,22 @@
+.dash{
+    background-image: "../../assets/im4.jpg";
+    background-color: bisque;
+    height:100%;
+    width:100%;
+}
+.col
+{
+    padding-left: 50px;
+}
+.column {
+    float: left;
+    width: 25%;
+    padding: 10px;
+    border-radius: 50%;
+    height: "100%"; /* Should be removed. Only for demonstration */
+  }
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }

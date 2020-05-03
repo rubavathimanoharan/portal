@@ -1,0 +1,55 @@
+.t
+{
+   background-image: url("../../assets/ting.gif");
+   background-color:rgb(62,15,13);
+   background-repeat: no-repeat;
+      height: 155px;
+    width: 100%;
+    image-orientation: flip;
+    text-decoration:none;
+}
+h1
+{
+    font-family:algerian;
+    font-style:bold;
+    text-align: center;
+    font-weight: bold;
+    color: antiquewhite;
+}
+h3
+{
+    font-family: ALGERIAN;
+    text-align: center;
+    color: aliceblue;
+}
+.c{
+    font-size: 0.8cm;
+}
+.a{
+    padding-top: 10px;
+    padding-left: 350px; 
+     padding-bottom: 10px;
+     max-width: 400px;
+     display:inline-block;
+    margin:14px 12px;
+    border-radius: 12px;
+    border:none;
+  }
+  .btn-group button:hover {
+  
+  border:none;   
+   float:right;
+}
+  
+a{
+  color: white;
+  border:none;
+  background: none;
+  float:right;
+}
+
+.e{
+  border:none;
+  background: none;
+}
+
